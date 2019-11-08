@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heroes>
+	<hero>
+		<name>Jaina Proudmoore</name>
+		<className>Mage</className>
+		<heroPower>Fireblast</heroPower>
+		<deckType>Secret, Elemental, Big Spell</deckType>
+        <flavorText>The Kirin Tor's leader is a powerful sorceress. She used to be a lot nicer before the Theramore thing.</flavorText>
+        <image>Heroes_Profile/Jaina</image>
+		<url>wow.gamepedia.com/Jaina_Proudmoore</url>
+	</hero>
+    <hero>
+        <name>Uther Lightbringer</name>
+        <className>Paladin</className>
+        <heroPower>Reinforce</heroPower>
+        <deckType>Odd, Murloc, Holy Wrath</deckType>
+        <flavorText>Leader of the Knights of the Silver Hand. Best-selling author of The Light and How to Swing It.</flavorText>
+        <image>Heroes_Profile/Uther</image>
+        <url>wow.gamepedia.com/Uther_the_Lightbringer</url>
+    </hero>
+    <hero>
+        <name>Valeera Sanguinar</name>
+        <className>Rogue</className>
+        <heroPower>Dagger Mastery</heroPower>
+        <deckType>Tempo, Miracle, Kingsbane</deckType>
+        <flavorText>Expert assassin. Deadly gladiator. Best knife skills in her cooking class, according to survivors.</flavorText>
+        <image>Heroes_Profile/Valeera</image>
+        <url>wow.gamepedia.com/Valeera_Sanguinar</url>
+    </hero>
+    <hero>
+        <name>Garrosh Hellscream</name>
+        <className>Warrior</className>
+        <heroPower>Armor Up!</heroPower>
+        <deckType>Rush, Recruit, Pirate</deckType>
+        <flavorText>This former Warchief of the Horde isn't bitter about being deposed. Not at all.</flavorText>
+        <image>Heroes_Profile/Garrosh</image>
+        <url>wow.gamepedia.com/Garrosh_Hellscream</url>
+    </hero>
+    <hero>
+        <name>Gul'dan</name>
+        <className>Warlock</className>
+        <heroPower>Life Tap</heroPower>
+        <deckType>Zoo, Hand, Demon</deckType>
+        <flavorText>Talented, persuasive and hard-working. Too bad he wants to feed your soul to demons.</flavorText>
+        <image>Heroes_Profile/Gul'dan</image>
+        <url>wow.gamepedia.com/Gul%27dan</url>
+    </hero>
+    <hero>
+        <name>Thrall</name>
+        <className>Shaman</className>
+        <heroPower>Totemic Call</heroPower>
+        <deckType>Even, Evolve, Elemental</deckType>
+        <flavorText>Thrall quit his former job as Warchief to save the world and spend more time with his family.</flavorText>
+        <image>Heroes_Profile/Thrall</image>
+        <url>wow.gamepedia.com/Thrall</url>
+    </hero>
+    <hero>
+        <name>Anduin Wrynn</name>
+        <className>Priest</className>
+        <heroPower>Lesser Heal</heroPower>
+        <deckType>Silence, Spiteful, Dragon</deckType>
+        <flavorText>The future King of Stormwind is a kind, gentle soul. Except when he's in Shadowform.</flavorText>
+        <image>Heroes_Profile/Anduin</image>
+        <url>wow.gamepedia.com/Anduin_Wrynn</url>
+    </hero>
+    <hero>
+        <name>Rexxar</name>
+        <className>Hunter</className>
+        <heroPower>Steady Shot</heroPower>
+        <deckType>Face, Midrange, Deathrattle</deckType>
+        <flavorText>He only feels at home in the wilderness with his beasts. Super secret: Misha is his favorite.</flavorText>
+        <image>Heroes_Profile/Rexxar</image>
+        <url>wow.gamepedia.com/Rexxar</url>
+    </hero>
+    <hero>
+        <name>Malfurion Stormrage</name>
+        <className>Druid</className>
+        <heroPower>Shapeshift</heroPower>
+        <deckType>Jade, Taunt, Token</deckType>
+        <flavorText>The lord of the night elves is a wise and noble leader. Yes, those antlers are real.</flavorText>
+        <image>Heroes_Profile/Malfurion</image>
+        <url>wow.gamepedia.com/Malfurion_Stormrage</url>
+    </hero>
+    <hero>
+        <name>Medivh</name>
+        <className>Mage</className>
+        <heroPower>Fireblast</heroPower>
+        <deckType>Secret, Elemental, Big Spell</deckType>
+        <flavorText>The Guardian of Tirisfal is a force for good. Demonic possession is a manageable condition.</flavorText>
+        <image>Heroes_Profile/Medivh</image>
+        <url>https://wow.gamepedia.com/Medivh</url>
+    </hero>
+</heroes>
